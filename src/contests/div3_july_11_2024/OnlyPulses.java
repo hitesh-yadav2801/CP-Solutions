@@ -1,4 +1,4 @@
-package july_11_2024;
+package contests.div3_july_11_2024;
 
 import java.util.Scanner;
 
