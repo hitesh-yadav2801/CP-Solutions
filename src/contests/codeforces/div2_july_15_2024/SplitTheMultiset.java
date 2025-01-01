@@ -1,4 +1,4 @@
-package contests.div2_july_15_2024;
+package contests.codeforces.div2_july_15_2024;
 
 import java.util.Scanner;
 
